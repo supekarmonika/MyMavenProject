@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T21:34:09 IST" name="Default suite" finished-at="2023-02-17T21:34:10 IST" duration-ms="341">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T21:34:09 IST" name="Default test" finished-at="2023-02-17T21:34:10 IST" duration-ms="341">
+      <class name="FunctionalTest.Product">
+        <test-method signature="varifyElectronicItems()[pri:0, instance:FunctionalTest.Product@8462f31]" started-at="2023-02-17T21:34:09 IST" name="varifyElectronicItems" finished-at="2023-02-17T21:34:09 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyElectronicItems -->
+        <test-method signature="varifyGrocery()[pri:0, instance:FunctionalTest.Product@8462f31]" started-at="2023-02-17T21:34:09 IST" name="varifyGrocery" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyGrocery -->
+        <test-method signature="verifyHomeDecore()[pri:0, instance:FunctionalTest.Product@8462f31]" started-at="2023-02-17T21:34:09 IST" name="verifyHomeDecore" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeDecore -->
+        <test-method signature="verifyKitchenApplience()[pri:0, instance:FunctionalTest.Product@8462f31]" started-at="2023-02-17T21:34:09 IST" name="verifyKitchenApplience" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKitchenApplience -->
+      </class> <!-- FunctionalTest.Product -->
+      <class name="FunctionalTest.Payment">
+        <test-method signature="varifyCreditCardPayment()[pri:0, instance:FunctionalTest.Payment@1033576a]" started-at="2023-02-17T21:34:09 IST" name="varifyCreditCardPayment" finished-at="2023-02-17T21:34:09 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyCreditCardPayment -->
+        <test-method signature="varifyDebitCardPayment()[pri:0, instance:FunctionalTest.Payment@1033576a]" started-at="2023-02-17T21:34:09 IST" name="varifyDebitCardPayment" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyDebitCardPayment -->
+        <test-method signature="varifyElectronicItemProductPayment()[pri:0, instance:FunctionalTest.Payment@1033576a]" started-at="2023-02-17T21:34:09 IST" name="varifyElectronicItemProductPayment" finished-at="2023-02-17T21:34:09 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyElectronicItemProductPayment -->
+        <test-method signature="varifyUPIPayment()[pri:0, instance:FunctionalTest.Payment@1033576a]" started-at="2023-02-17T21:34:09 IST" name="varifyUPIPayment" finished-at="2023-02-17T21:34:09 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyUPIPayment -->
+      </class> <!-- FunctionalTest.Payment -->
+      <class name="SanityTest.HomePage">
+        <test-method signature="varifyItems()[pri:0, instance:SanityTest.HomePage@303cf2ba]" started-at="2023-02-17T21:34:09 IST" name="varifyItems" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyItems -->
+        <test-method signature="varifySearchButton()[pri:0, instance:SanityTest.HomePage@303cf2ba]" started-at="2023-02-17T21:34:09 IST" name="varifySearchButton" finished-at="2023-02-17T21:34:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifySearchButton -->
+        <test-method signature="varifySignInButton()[pri:0, instance:SanityTest.HomePage@303cf2ba]" started-at="2023-02-17T21:34:10 IST" name="varifySignInButton" finished-at="2023-02-17T21:34:10 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifySignInButton -->
+      </class> <!-- SanityTest.HomePage -->
+      <class name="SanityTest.Login">
+        <test-method signature="varifyLoginWithEmail()[pri:0, instance:SanityTest.Login@76494737]" started-at="2023-02-17T21:34:10 IST" name="varifyLoginWithEmail" finished-at="2023-02-17T21:34:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyLoginWithEmail -->
+        <test-method signature="varifyLoginWithMobile()[pri:0, instance:SanityTest.Login@76494737]" started-at="2023-02-17T21:34:10 IST" name="varifyLoginWithMobile" finished-at="2023-02-17T21:34:10 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyLoginWithMobile -->
+      </class> <!-- SanityTest.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

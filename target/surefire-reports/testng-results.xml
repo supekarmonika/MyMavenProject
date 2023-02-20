@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T20:23:10 IST" name="Suite" finished-at="2023-02-03T20:23:10 IST" duration-ms="376">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T20:23:10 IST" name="Test" finished-at="2023-02-03T20:23:10 IST" duration-ms="376">
+      <class name="Day1.Registration">
+        <test-method signature="RegistrationWithId()[pri:0, instance:Day1.Registration@1cf6d1be]" started-at="2023-02-03T20:23:10 IST" name="RegistrationWithId" finished-at="2023-02-03T20:23:10 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationWithId -->
+      </class> <!-- Day1.Registration -->
+      <class name="Day2.Login">
+        <test-method signature="LoginWithId()[pri:0, instance:Day2.Login@663c9e7a]" started-at="2023-02-03T20:23:10 IST" name="LoginWithId" finished-at="2023-02-03T20:23:10 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithId -->
+      </class> <!-- Day2.Login -->
+      <class name="Day3.ForgetPassword">
+        <test-method signature="ForgetPswwithId()[pri:0, instance:Day3.ForgetPassword@7ef82753]" started-at="2023-02-03T20:23:10 IST" name="ForgetPswwithId" finished-at="2023-02-03T20:23:10 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgetPswwithId -->
+      </class> <!-- Day3.ForgetPassword -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
